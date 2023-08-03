@@ -1,4 +1,4 @@
-# TypeORM In The Nest
+# TypeORM In The Nest, Inflearn 윤상석's 강의
 
 ## Config .env
 
